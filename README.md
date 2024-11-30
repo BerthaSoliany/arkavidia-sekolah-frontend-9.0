@@ -24,3 +24,4 @@ pnpm dev
 ```
 
 6. Website dapat diakses pada localhost:3000
+7. Untuk melihat hasil pergi ke http://localhost:3000/competitive-programming
